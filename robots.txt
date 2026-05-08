@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# رابط خريطة الموقع عشان جوجل يوصلها بسرعة
+Sitemap: https://albob2005.github.io/Al-Qaisar/sitemap.xml
